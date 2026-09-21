@@ -1,5 +1,7 @@
 # 🌿 GreenLoop AI
 
+> 📄 **[Click here to view the Full Project Presentation & Architecture Report (PDF)](./Project%201M1B.pdf)**
+
 **Live app:** [greenloop-ai-flax.vercel.app](https://greenloop-ai-flax.vercel.app)
 
 > An agentic AI platform for sustainable community living — connecting organic waste to composting facilities, diagnosing plant diseases, and coordinating community gardens through multi-agent workflows.
